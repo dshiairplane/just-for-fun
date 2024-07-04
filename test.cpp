@@ -57,12 +57,7 @@ void test01()
 }
 
 int main() {
-	test01();
 	
-	test01();
-
-	test01();
-
 	test01();
 
 	return 0;
